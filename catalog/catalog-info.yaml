@@ -14,4 +14,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: user:toto@toto.com
+  owner: user:default/toto@toto.com
